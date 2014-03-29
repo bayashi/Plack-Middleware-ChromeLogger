@@ -17,6 +17,8 @@ my $builder = Module::Build->new(
         'HTTP::Request::Common' => 0,
         'LWP::UserAgent' => 0,
         'Plack::Test' => 0,
+        'MIME::Base64' => 0,
+        'JSON' => 0,
     },
     requires => {
         'perl' => '5.008001',
