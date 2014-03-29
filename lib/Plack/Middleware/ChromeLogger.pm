@@ -66,6 +66,8 @@ Plack::Middleware::ChromeLogger - The Chrome Logger Middleware for Plack
 
 Plack::Middleware::ChromeLogger is the Chrome Logger Middleware for Plack.
 
+See L<Web::ChromeLogger>, L<http://craig.is/writing/chrome-logger> for detail
+
 
 =head1 METHODS
 
