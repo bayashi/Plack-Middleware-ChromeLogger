@@ -35,7 +35,7 @@
             "Plack::Middleware" : "0",
             "Plack::Util" : "0",
             "Plack::Util::Accessor" : "0",
-            "Web::ChromeLogger" : "0",
+            "Web::ChromeLogger" : "0.04",
             "perl" : "5.008001"
          }
       }

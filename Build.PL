@@ -22,7 +22,7 @@ my $builder = Module::Build->new(
     },
     requires => {
         'perl' => '5.008001',
-        'Web::ChromeLogger' => 0,
+        'Web::ChromeLogger' => 0.04,
         'Plack::Middleware' => 0,
         'Plack::Util' => 0,
         'Plack::Util::Accessor' => 0,
